@@ -1,18 +1,3 @@
-### "At a glance" summary in regular human speak:
->
-> 🔍 **We collect information you provide** – This includes personal details when you register, information you upload about projects, website usage data, and email communications with us.<br/>
-> 🔒 **We don't sell your information** – Your personal information stays with us and isn't sold to third parties.<br/>
-> 📊 **We may use project data for promotion** – We might use aggregated, non-personal statistical data and production names for marketing our services.<br/>
-> 📱 **You can control your information** – You can access, update, or delete your account information and opt-out of certain communications.<br/>
-> 🔗 **Be careful on public forums** – Anything you post on our bulletin boards or chat rooms isn't protected as confidential.<br/>
-> 🛡️ **We work to keep your data secure** – We use security measures during transmission, but by using the site you acknowledge that no system is 100% secure.<br/>
-> 🧭 **Third-party sites have their own policies** – We're not responsible for other websites you may access through our site.<br/>
-> ⚖️ **Legal compliance** – We may share your information when required by law or to protect rights and safety.<br/>
-> 📝 **Policy updates** – This privacy policy may be modified at any time, and your continued use means you accept changes.<br/>
-> 
-
-<br/>
-
 # Privacy Policy
 
 **This Privacy Policy sets forth the guidelines SetHero, LLC ("Company") uses for protecting the information you ("User" or "you") provide to us during visits to sethero.com (this "Site" or our "Site").**
