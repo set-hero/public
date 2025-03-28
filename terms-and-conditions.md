@@ -1,10 +1,19 @@
+> ### At a glance summary in regular human speak:
+>
+> 💳 **You pay based on your needs** – You'll see clear pricing for each project / subscription before you commit. If your project grows, fees may adjust. We'll always be transparent.\
+> 🔐 **You own your project data** – Any info you upload (like cast/crew details) stays yours. We don't own, sell, or share your data.\
+> 💼 **You need an account** – You'll need to create an account and keep it secure. You're responsible for activity on your account and backing up your data.\
+> 📲 **We may contact you** – We may reach out via email, text, or phone for service-related or promotional messages. You can opt out of marketing anytime.\
+> 📚 **You can't copy or resell our tools** – You can use SetHero for your own production needs, but can't copy, share, or sell our platform or content.\
+> 🫸 **You’re responsible for your use** – If you misuse the platform, break laws, or abuse the service, you're on the hook for any costs or legal issues that result.\
+> 🛠 **Using "as is"** – We work hard to keep things running smoothly, but outages or bugs can happen. Use is "as-is" and at your own risk.\
+> 🛡 **You're protected too** – You may have rights under state laws that go beyond these terms. Nothing here takes those away.
+>
+
+<br/>
+
 # Terms and Conditions of Use
 
-===========================
-
-#### SetHero LLC
-
-### **SETHERO LLC TERMS AND CONDITIONS OF USE**
 
 **SetHero, LLC (“Company”) maintains and provides access to its Web site (the “Site”) and the Company’s services (the “Services”) to its customers and the businesses they represent (collectively, “User” or “you”).  By using the Site or the Services, the User agrees to accept and abide by the Terms and Conditions of Use set forth in this agreement and agrees to comply with all applicable laws and regulations.   If User does not agree to accept and abide by these Terms and Conditions of Use, do not use the Site or the Services.  Company may revise or modify these Terms and Conditions of Use at any time from time to time and post such revisions or modifications on the Site.  Continued use of the Site or Services after any such revision or modification constitutes User’s acceptance of the Terms and Conditions of Use as so revised or modified.**
 
