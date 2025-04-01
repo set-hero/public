@@ -75,6 +75,4 @@ As every situation is unique, we review violations of this policy on a case-by-c
 
 ## Modifications to Acceptable Use Policy
 
-We modified the SetHero Acceptable Use Policy to re-organize and simplify the content. By continuing to use SetHero Services after the Effective Date noted above, you agree to this Acceptable Use Policy. If you don't agree with these modifications, your sole remedy is to cease using SetHero Services immediately.
-
-This policy may change over time, so please check back regularly for updates and changes.
+This policy may change over time, so please check back regularly for updates and changes. Continued use of SetHero's services indicates acceptance of any policy updates. If you don't agree with these modifications, your sole remedy is to cease using SetHero Services immediately.
