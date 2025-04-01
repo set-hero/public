@@ -26,19 +26,20 @@ Don't access or use SetHero Services directly or indirectly to, or in ways that:
 
 - **Create Multiple Accounts**: Create multiple SetHero accounts in order to circumvent any of our Services or Third Party service limitations or restrictions.
 
-- **Excessive Messaging**: Send excessive, unnecessary, or unsolicited emails, SMS, or other messages through SetHero Services.
-
-- **Automated Messaging**: Engage in automated activity of publishing or sending messages. Message sending rates must be kept to reasonable, human levels.
-
-- **API Abuse**: Use SetHero's API in any unauthorized manner or to circumvent limitations, including but not limited to automated message sending, beyond reasonable production needs.
-
-- **Spamming**: Generate or send unsolicited call sheets, messages, or notifications that you do not have permission to send to recipients or which are otherwise prohibited under applicable law.
-
 - **Intellectual Property Infringement**: Use, post, distribute, or violate SetHero's or a Third Party's intellectual property that you don't have the right to use.
 
 - **Misrepresentation**: Impersonate other production companies, crew members, or otherwise misrepresent yourself or misstate the origin of any content. Accounts on SetHero Services may not be created with throwaway email addresses.
 
 - **Circumvent or Violate Third Party Terms**: Use Services with the primary purpose of violating or circumventing the terms or restrictions of a Third Party.
+
+- **Excessive Messaging**: Send excessive, unnecessary, or unsolicited emails, SMS, or other messages through SetHero Services.
+
+- **Automated Messaging**: Engage in automated activity of publishing or sending messages. Message sending rates must be kept to reasonable, human levels.
+
+- **API Abuse**: Use SetHero's API in any unauthorized manner or to circumvent limitations beyond reasonable production needs.
+
+- **Spamming**: Generate or send unsolicited call sheets, messages, or notifications that you do not have permission to send to recipients or which are otherwise prohibited under applicable law.
+
 
 ## Illegal, Harmful, Hateful Activities, or Content
 
