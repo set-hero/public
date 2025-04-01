@@ -67,9 +67,9 @@ As every situation is unique, we review violations of this policy on a case-by-c
 
 ## Definitions Used in this Policy:
 
-"SetHero" means SetHero Inc. and its affiliated entities.
+"SetHero" means SETHERO, LLC and any of its affiliated entities.
 
-"Services" means the SetHero cloud-based products, including the SetHero film and TV production management platform, call sheet creation and distribution tools, contact management system, script breakdown tools, and related APIs, applications and services.
+"Services" means the SetHero cloud-based products, including the SetHero film and TV production management platform, call sheet creation and distribution tools, contact management system, and related APIs, applications and services.
 
 "Third Party" means SetHero customers, production companies, filmmakers, cast, crew, and integration partners.
 
