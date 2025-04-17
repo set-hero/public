@@ -27,8 +27,7 @@ SetHero engages with third-party subprocessors to help us provide services to ou
 | StitchData | Data pipeline & ETL | https://www.stitchdata.com/ <br> https://www.stitchdata.com/platform/security/ |
 | Metabase | Data visualization, querying, and dashboarding | https://www.metabase.com/ <br> https://www.metabase.com/security |
 | Mixpanel | Application user event tracking | https://mixpanel.com <br> https://mixpanel.com/legal/security-overview |
-| Microsoft Clarity | User session tracking | https://clarity.microsoft.com <br> https://microsoft.com/en-us/trust-center |
-| FullStory | User session tracking | https://fullstory.com <br> https://www.fullstory.com/privacy-resources/ |
+| Posthog | Application user event tracking | https://posthog.com <br> https://posthog.com/handbook/company/security
 | Zapier | Facilitating various data integrations between vendors | https://zapier.com <br> https://zapier.com/security-compliance |
 | Chargebee | Customer billing management | https://chargebee.com <br> https://chargebee.com/security |
 | Stripe | Payment gateway / processing | https://stripe.com <br> https://stripe.com/docs/security/stripe |
