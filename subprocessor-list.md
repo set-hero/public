@@ -34,4 +34,4 @@ SetHero engages with third-party subprocessors to help us provide services to ou
 | Google Data Studio | Data analysis and reporting | https://datastudio.google.com/ <br> https://support.google.com/datastudio/topic/7156087?hl=en&ref_topic=6291008 |
 
 ### Updates to Subprocessors
-As SetHero’s business continues to grow and evolve, these subprocessors may change. SetHero will notify the Customer of new sub-processors at least 30 days in advance, and the Customer has the right to object by contacting SetHero within 30 days of such notification.
+As SetHero’s business continues to grow and evolve, these subprocessors may change. SetHero will notify the Customer of new sub-processors at least 30 days in advance, and the Customer has the right to object by contacting SetHero at privacy@sethero.com within 30 days of such notification.
