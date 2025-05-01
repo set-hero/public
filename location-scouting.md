@@ -148,7 +148,7 @@ Begin the permit process as soon as locations are shortlisted:
 
 > **Pro Tip:** Develop relationships with local film commission representatives. These individuals often have the authority to expedite permits and may know workarounds for particularly challenging locations that aren't obvious to outsiders.
 
-[vc_video link="https://www.youtube.com/watch?v=loYSPOl--c4"]
+[vc_row type="in_container" full_screen_row_position="middle" column_margin="default" column_direction="default" column_direction_tablet="default" column_direction_phone="default" scene_position="center" text_color="dark" text_align="left" row_border_radius="none" row_border_radius_applies="bg" overlay_strength="0.3" gradient_direction="left_to_right" shape_divider_position="bottom" bg_image_animation="none"][vc_column column_padding="no-extra-padding" column_padding_tablet="inherit" column_padding_phone="inherit" column_padding_position="all" column_element_spacing="default" background_color_opacity="1" background_hover_color_opacity="1" column_shadow="none" column_border_radius="none" column_link_target="_self" gradient_direction="left_to_right" overlay_strength="0.3" width="1/1" tablet_width_inherit="default" tablet_text_alignment="default" phone_text_alignment="default" bg_image_animation="none" border_type="simple" column_border_width="none" column_border_style="solid"][vc_video link="https://www.youtube.com/watch?v=loYSPOl--c4"][/vc_column][/vc_row]
 
 ## Budget Planning
 
