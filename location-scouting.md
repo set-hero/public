@@ -13,7 +13,7 @@ In this article, we'll explore everything you need to know to become an expert l
 
 
 
-![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_46kcwYFYwUHSgWWczP.jpg){ width=480px }
+![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_46kcwYFYwUHSgWWczP.jpg)
 
 
 
@@ -77,7 +77,7 @@ Professional location scouts rely on both physical tools and digital technology 
 
 
 
-![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_V0bEjzkpVPWfuPNiOp.jpg){ width=480px }
+![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_V0bEjzkpVPWfuPNiOp.jpg)
 
 
 
@@ -148,7 +148,7 @@ Begin the permit process as soon as locations are shortlisted:
 
 > **Pro Tip:** Develop relationships with local film commission representatives. These individuals often have the authority to expedite permits and may know workarounds for particularly challenging locations that aren't obvious to outsiders.
 
-
+[vc_video link="https://www.youtube.com/watch?v=loYSPOl--c4"]
 
 ## Budget Planning
 
