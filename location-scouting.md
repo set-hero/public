@@ -15,7 +15,7 @@ In this article, we'll explore everything you need to know to become an expert l
 
 
 
-![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_46kcwYFYwUHSgWWczP.jpg){ width=480px }
+![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_46kcwYFYwUHSgWWczP.jpg)
 
 
 
@@ -79,7 +79,7 @@ Professional location scouts rely on both physical tools and digital technology 
 
 
 
-![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_V0bEjzkpVPWfuPNiOp.jpg){ width=480px }
+![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_V0bEjzkpVPWfuPNiOp.jpg)
 
 
 
