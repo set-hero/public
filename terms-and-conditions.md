@@ -1,17 +1,3 @@
-> ### At a glance summary in regular human speak:
->
-> 💳 **You pay based on your needs** – You'll see clear pricing for each project / subscription before you commit. If your project grows, fees may adjust. We'll always be transparent.\
-> 🔐 **You own your project data** – Any info you upload (like cast/crew details) stays yours. We don't own, sell, or share your data.\
-> 💼 **You need an account** – You'll need to create an account and keep it secure. You're responsible for activity on your account and backing up your data.\
-> 📲 **We may contact you** – We may reach out via email, text, or phone for service-related or promotional messages. You can opt out of marketing anytime.\
-> 📚 **You can't copy or resell our tools** – You can use SetHero for your own production needs, but can't copy, share, or sell our platform or content.\
-> 🫸 **You’re responsible for your use** – If you misuse the platform, break laws, or abuse the service, you're on the hook for any costs or legal issues that result.\
-> 🛠 **Using "as is"** – We work hard to keep things running smoothly, but outages or bugs can happen. Use is "as-is" and at your own risk.\
-> 🛡 **You're protected too** – You may have rights under state laws that go beyond these terms. Nothing here takes those away.
->
-
-<br/>
-
 # Terms and Conditions of Use
 
 
