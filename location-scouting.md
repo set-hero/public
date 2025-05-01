@@ -148,7 +148,7 @@ Begin the permit process as soon as locations are shortlisted:
 
 > **Pro Tip:** Develop relationships with local film commission representatives. These individuals often have the authority to expedite permits and may know workarounds for particularly challenging locations that aren't obvious to outsiders.
 
-[youtube url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"]
+[youtube id="dQw4w9WgXcQ"]
 
 ## Budget Planning
 
