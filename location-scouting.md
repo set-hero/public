@@ -1,6 +1,4 @@
-# Tips for a Successful Film Location Scout
-
-The difference between an average film and a great one often comes down to its locations. Good location scouting isn't just about finding pretty places—it's about finding spots that fit your story, budget, and schedule.
+[dropcap]T[/dropcap]he difference between an average film and a great one often comes down to its locations. Good location scouting isn't just about finding pretty places—it's about finding spots that fit your story, budget, and schedule.
 
 In this article, we'll explore everything you need to know to become an expert location scout. Let's dive in!
 
