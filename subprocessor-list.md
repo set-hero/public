@@ -7,7 +7,7 @@ SetHero engages with third-party subprocessors to help us provide services to ou
 
 | Subprocessor Name | Nature of Processing | Website / Security URL |
 |-------------------|--------------------------|--------------------------|
-| Amazon Web Services | Cloud hosting / infrastructure | https://aws.amazon.com <br> https://aws.amazon.com/security |
+| Amazon Web Services | Cloud hosting / infrastructure; AI model hosting (Amazon Bedrock) | https://aws.amazon.com <br> https://aws.amazon.com/security |
 | Plivo | Transactional SMS provider (primary) | https://www.plivo.com/ <br> https://www.plivo.com/security/ |
 | Twilio | Transactional SMS provider (backup) | https://twilio.com <br> https://twilio.com/legal/security-overview |
 | SendGrid | Transactional email provider | https://sendgrid.com <br> https://sendgrid.com/policies/security |
@@ -33,5 +33,26 @@ SetHero engages with third-party subprocessors to help us provide services to ou
 | Stripe | Payment gateway / processing | https://stripe.com <br> https://stripe.com/docs/security/stripe |
 | Google Data Studio | Data analysis and reporting | https://datastudio.google.com/ <br> https://support.google.com/datastudio/topic/7156087?hl=en&ref_topic=6291008 |
 
-### Updates to Subprocessors
+
+<br/><br/>
+## AI Features
+
+SetHero uses AI models to power certain AI-assisted features. We list the models we use here for full transparency — even though **your content is never sent to, accessed by, or stored by these model providers.** All AI models are accessed **only through Amazon Bedrock** (a service of Amazon Web Services, listed above) and run entirely inside SetHero's existing AWS environment. 
+
+**How your data is protected:**
+
+- **Completely optional** — all AI features can be disabled at the company level by account owners.
+- **Your data stays 100% private** — the models run inside our AWS environment; No AI model provider has no access to your inputs, outputs, or logs.
+- **Zero data retention** — inputs and outputs are not stored after a response is generated.
+- **No training** — your content is never used to train any AI model.
+- **Same region** — processing happens in the same AWS region we already use for your data.
+- **Data minimization** — the features are designed to prevent unnecessary personal data from being sent to the models.
+
+
+| Subprocessor Name | Nature of Processing | Website / Security URL |
+|-------------------|--------------------------|--------------------------|
+| Anthropic | Provider of the Claude AI models (Sonnet & Haiku) used for in-app AI features, run by SetHero via Amazon Bedrock inside our existing AWS environment. **No customer content is sent to or accessible by Anthropic.** | https://www.anthropic.com <br> https://trust.anthropic.com |
+
+<br/><br/>
+## Updates to Subprocessors
 As SetHero’s business continues to grow and evolve, these subprocessors may change. SetHero will notify the Customer of new sub-processors at least 30 days in advance, and the Customer has the right to object by contacting SetHero at privacy@sethero.com within 30 days of such notification.
